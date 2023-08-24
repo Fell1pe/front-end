@@ -5,7 +5,7 @@ repositório para armazenamento de arquivo front-end (html - css)
 
 site para ver filmes e musicas de forma paga tendo também um teste grátis.
 
-<img src="gratis-2.0.gif">
+<img src="gratiss.gif">
 
 # 24/08/23 
 07:26
